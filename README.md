@@ -1,5 +1,4 @@
-Dataset of 101 Vietnamese avocado 034 samples
-Nếu bạn sử dụng **Avocado034 Dataset** trong bài báo, báo cáo hoặc dự án, vui lòng trích dẫn như sau:
+Dataset of 101 Vietnamese avocado 034 samples. If you use the **Avocado034 Dataset** in your publication, report, or project, please cite it as follows:
 
 **BibTeX format:**
 
