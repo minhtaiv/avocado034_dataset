@@ -5,8 +5,7 @@ Nếu bạn sử dụng **Avocado034 Dataset** trong bài báo, báo cáo hoặc
 
 ```bibtex
 @misc{minhtaiv2025avocado034,
-  author       = {Le Nguyen Hieu An, Truong Quoc Bao, Hoang Ngoc An,
- Nguyen Tran Minh Nguyet, Minh-Quan Nguyen, Son. V. T. Dao and Minh-Tai Vo},
+  author       = {Le Nguyen Hieu An, Truong Quoc Bao, Hoang Ngoc An, Nguyen Tran Minh Nguyet, Minh-Quan Nguyen, Son. V. T. Dao and Minh-Tai Vo},
   title        = {Avocado034 Dataset},
   year         = {2025},
   publisher    = {GitHub},
